@@ -3,6 +3,10 @@
 [x] background-color : color in the entire thing
     ex -  style = "background: red;"
 
+[x]  color : changet the color of the text
+     ex -  style = "color: orange;"
+    
+
 [x]  b : make text bold 
 
 [x] br(breakTag) : text after that will start from the next line 
