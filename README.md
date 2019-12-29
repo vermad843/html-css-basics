@@ -7,6 +7,7 @@
      ex -  style = "color: orange;"
 
 [x] font-size : for deciding the size of the text. ex- style = "font-size: 50px; font-family: verdana; text-align: center;"      
+
 [x] block level : take entire width 
 
 [x]example - h1,p
