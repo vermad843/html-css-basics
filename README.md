@@ -44,6 +44,9 @@
 [x]sup(superscript) : 103(10 to the power 3)
 
 [x] br(breakTag) : text after that will start from the next line 
+
+[x]website layout : 
+    header,main,footer
     
    
 
