@@ -1,10 +1,12 @@
 [x] styles : 
 
-[x] background-color : color in the entire thing
+[x] background-color : color in the entire thing.
     ex -  style = "background: red;"
 
-[x]  color : changet the color of the text
+[x]  color : change the color of the text.
      ex -  style = "color: orange;"
+
+[x] font-size : for deciding the size of the text. ex- style = "font-size: 50px;"     
     
 
 [x]  b : make text bold 
