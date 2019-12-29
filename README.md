@@ -10,6 +10,13 @@
 [x] block level : take entire width 
 
 [x]example - h1,p
+
+
+[x] Inline level : remain in the same line
+
+[x] example- span 
+
+[x] Emmet  -  h1>lorem20
     
    
 
