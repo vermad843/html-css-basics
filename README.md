@@ -34,6 +34,14 @@
 
 [x]mark : mark it with a lightgreen color
 
+[x]del : line through
+
+[x] ins(inserted) : line below the word 
+
+[x]sub(subscript) : CO2(carbon di oxide)
+
+[x]sup(superscript) : 103(10 to the power 3)
+
 [x] br(breakTag) : text after that will start from the next line 
     
    
