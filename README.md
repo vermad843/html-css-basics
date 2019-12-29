@@ -11,6 +11,10 @@
 
 [x]example - h1,p
 
+[x] pre - consectetur 
+          adipisicing 
+          elit
+
 
 [x] Inline level : remain in the same line
 
