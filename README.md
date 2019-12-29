@@ -6,7 +6,7 @@
 [x]  color : change the color of the text.
      ex -  style = "color: orange;"
 
-[x] font-size : for deciding the size of the text. ex- style = "font-size: 50px;"     
+[x] font-size : for deciding the size of the text. ex- style = "font-size: 50px; font-family: verdana; text-align: center;"     
     
 
 [x]  b : make text bold 
